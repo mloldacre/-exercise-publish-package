@@ -1,3 +1,15 @@
 {
-  "your": "json config here"
+	"name": "@mloldacre/-exercise-publish-package",
+	"version": "1.0.0",
+	"description": "test package",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo\"Error:no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"repository": {
+		"url": "git://github.com/mloldacre/-exercise-publish-package.git"
+	},
+	"author": "Michael Oldacre",
+	"license": "ISC"
 }
